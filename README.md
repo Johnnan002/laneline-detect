@@ -1,5 +1,5 @@
 # laneline-detect
-List of lane line detection papers
+List of laneline detection papers
 
 
 1.通过可微分最小二乘拟合的端到端车道检测
